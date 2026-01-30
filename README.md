@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! 👋 I'm Sujana<br>I'm a curious and driven CS student who loves using code to solve real-world problems<br>Lately, I've been diving into:<br>- 😄 Tracking emotional responses during gameplay using FaceMesh<br>- 🔁 Creating a browser extension that syncs sign language videos with YouTube for deaf users<br>- 🧠 Learning and trying to work with Deep Learning<br>
+Hey there! 👋 I'm Sujana<br>I'm a curious and driven CS student who loves using code to solve real-world problems<br>Lately, I've been diving into:<br>- 😄 Tracking emotional responses during gameplay using FaceMesh<br>- 🔁 Creating a browser extension that syncs sign language videos with YouTube for deaf users<br>- 🧠 Learning and trying to work with Machine Learning and Deep Learning<br>
 
 
 ## 🌐 Socials:
